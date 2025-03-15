@@ -1,4 +1,4 @@
-DATABASE_URL:=postgres://postgres:foobarbaz@localhost:5432/postgres
+DATABASE_URL:=postgres://postgres:uttamseervi0045*@localhost:5432/postgres
 
 .PHONY: run-postgres
 run-postgres:
